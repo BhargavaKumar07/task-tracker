@@ -122,5 +122,6 @@ Each task contains:
 - Colored terminal output
 
 ## Author
+https://github.com/BhargavaKumar07/task-tracker
 
 Bhargava Kumar
