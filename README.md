@@ -38,7 +38,7 @@ task-tracker/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-tracker.git
+git clone https://github.com/BhargavaKumar07/task-tracker
 ```
 
 Go to the project directory
